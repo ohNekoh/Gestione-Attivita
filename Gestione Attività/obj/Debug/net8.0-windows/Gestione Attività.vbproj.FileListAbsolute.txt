@@ -1,0 +1,16 @@
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\bin\Debug\net8.0-windows\Gestione Attività.exe
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\bin\Debug\net8.0-windows\Gestione Attività.deps.json
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\bin\Debug\net8.0-windows\Gestione Attività.runtimeconfig.json
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\bin\Debug\net8.0-windows\Gestione Attività.dll
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\bin\Debug\net8.0-windows\Gestione Attività.pdb
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione_Attività.Form1.resources
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.vbproj.GenerateResource.cache
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.AssemblyInfoInputs.cache
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.AssemblyInfo.vb
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.vbproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.dll
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\refint\Gestione Attività.dll
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.pdb
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\Gestione Attività.genruntimeconfig.cache
+C:\Users\matte\Desktop\Developer\Vb\Gestione Attività\Gestione Attività\obj\Debug\net8.0-windows\ref\Gestione Attività.dll
